@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DespertadorNET">
+</Property><Property Name="Archivo de la solución" Value="E:\Despertador\Programa\DespertadorNET\DespertadorNET.sln">
+</Property><Property Name="Date" Value="martes, 18 de octubre de 2011">
+</Property><Property Name="Time" Value="00:29 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="DespertadorNET" Source="DespertadorNET\DespertadorNET.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="DespertadorNET" Source="DespertadorNET\DespertadorNET.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DespertadorNET.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="DespertadorNET.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DespertadorNET" Source="DespertadorNET\DespertadorNET.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

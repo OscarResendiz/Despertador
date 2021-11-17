@@ -1,0 +1,165 @@
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\ResolveAssemblyReference.cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\ResolveAssemblyReference.cache
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+D:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+C:\OSCAR\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+D:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\ResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.dll
+E:\PROYECTOS\PROYECTOS NET 2008\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\ResolveAssemblyReference.cache
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+D:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csprojResolveAssemblyReference.cache
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+C:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.Cache
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csprojAssemblyReference.cache
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.cache
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.CoreCompileInputs.cache
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.CopyComplete
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+D:\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe.config
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.exe
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\DespertadorNET.pdb
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\AxInterop.WMPLib.dll
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.WMPLib.dll
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Opacador.pdb
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\bin\Debug\Interop.MediaPlayer.dll
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csprojAssemblyReference.cache
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\Interop.MediaPlayer.dll
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.ResolveComReference.cache
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormAlarma.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormDestino.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormLista.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormPrincipal.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.FormRepoructor.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.Properties.Resources.resources
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.GenerateResource.cache
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.csproj.CopyComplete
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.exe
+F:\PROYECTOS\Despertador\Programa\DespertadorNET\DespertadorNET\obj\Debug\DespertadorNET.pdb
